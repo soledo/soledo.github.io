@@ -133,6 +133,29 @@
 
       </section>
       <!-- end Skills -->
+
+      {% endif %}
+
+      {% if site.resume_section_recognition %}
+      <!-- begin License -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>License</h2>
+        </header>
+
+        {% for recognition in site.data.recognitions %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ License.license }}</h3>
+          <h4 class="resume-item-details">{{ License.organization }} &bull; {{ License.year }}</h4>
+          <p class="resume-item-copy">{{ License.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
+
+
       {% endif %}
 
       {% if site.resume_section_recognition %}
