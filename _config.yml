@@ -21,7 +21,7 @@ resume_contact_telephone:       "(+82) 010-8967-1014"
 resume_contact_address:         "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea "
 
 resume_header_contact_info:     "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea  • (+82) 010-8967-1014 • shindh2@jnu.ac.kr"
-display_header_contact_info:    True
+display_header_contact_info:    "True"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
