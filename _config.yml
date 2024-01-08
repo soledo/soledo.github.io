@@ -23,7 +23,7 @@ resume_contact_address:         "#415, College of AI Convergence, Chonnam Nation
 resume_header_contact_info:     "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea  • (+82) 010-8967-1014 • shindh2@jnu.ac.kr"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Cyber Threat Intelligence, Cyber Physical System, Internet of Things, Smart Grid, Vehicle to X, Infrastructure Security</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,7 +41,7 @@ resume_section_license:    true
 resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
-resume_section_interests:       true
+#resume_section_interests:       true
 
 
 # Resume social links
