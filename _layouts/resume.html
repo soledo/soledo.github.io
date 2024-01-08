@@ -136,7 +136,7 @@
 
       {% endif %}
 
-      {% if site.resume_section_recognition %}
+      {% if site.resume_section_license %}
       <!-- begin License -->
       <section class="content-section">
 
@@ -144,11 +144,11 @@
           <h2>License</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for license in site.data.license %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ License.license }}</h3>
-          <h4 class="resume-item-details">{{ License.organization }} &bull; {{ License.year }}</h4>
-          <p class="resume-item-copy">{{ License.summary }}</p>
+          <h3 class="resume-item-title" itemprop="license">{{ license.license }}</h3>
+          <h4 class="resume-item-details">{{ license.organization }} &bull; {{ license.year }}</h4>
+          <p class="resume-item-copy">{{ license.summary }}</p>
         </div>
         {% endfor %}
 
