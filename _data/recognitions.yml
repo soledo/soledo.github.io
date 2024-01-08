@@ -1,10 +1,22 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Emerging Excellence Researcher in Convergence Security
+  organization: Korea Convergence Security Association (Fall Conference and Workshop)
+  year: Nov 2023
+  #summary: 2023 Korea Convergence Security Society Fall Conference and Workshop in Seoul, Korea
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Excellent Paper Award (President of Korea Internet & Security Agency Award)
+  organization: Korea Institute of Information Security And Cryptology (CISC-S'22)
+  year: Jun 2022
+  #summary:
+
+- award: Excellence Prize in 7th Software Development Security Competition
+  organization: Ministry of the Interior and Safety
+  year: Nov 2020
+
+- award: 2nd place in General department of energy ICT hacking competition
+  organization: Korea Institute of Information Security And Cryptology
+  year: Oct 2020
+
+- award: Encouragement Prize in KEPCO KDN New Deal Innovation Hackathon
+  organization: KEPCO KDN Co., Ltd.
+  year: Jul 2020
