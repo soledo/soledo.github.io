@@ -23,7 +23,7 @@ resume_contact_address:         "#415, College of AI Convergence, Chonnam Nation
 resume_header_contact_info:     "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea  <br>Phone : (+82) 010-8967-1014 | E-mail : shindh2@jnu.ac.kr"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Cyber Threat Intelligence, Cyber Physical System, Internet of Things, Smart Grid, Vehicle to X, Infrastructure Security</p>"
+resume_header_intro: "<p>Cyber Threat Intelligence, Cyber Physical System, Vehicle to X, Digital Forensics, Cyber Deception</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
