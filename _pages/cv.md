@@ -45,7 +45,7 @@ Chonnam National University, South Korea
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | Excellent Paper Award [President of aT Award] | KIISC Fall Conference |
+| 2025 | Excellent Paper Award [President of aT(Korea Agro-Fisheries & Food Trade Corp.) Award] | KIISC Fall Conference |
 | 2025 | Excellence Award (2nd ATHENA 2025) | KISIA |
 | 2024 | Excellent Paper Award (President of Korea Power Exchange) | KIISC Fall Conference |
 | 2023 | Emerging Excellence Researcher in Convergence Security | KCSA Fall Conference |
