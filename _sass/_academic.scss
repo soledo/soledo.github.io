@@ -169,7 +169,7 @@ img {
 
 // Main Content
 .main-content {
-  min-height: calc(100vh - $header-height - 80px);
+  min-height: calc(100vh - #{$header-height} - 80px);
   padding: 2rem 0;
 }
 
@@ -232,7 +232,7 @@ img {
 
 .author-profile {
   position: sticky;
-  top: calc($header-height + 2rem);
+  top: calc(#{$header-height} + 2rem);
   text-align: center;
 
   @media (max-width: 900px) {

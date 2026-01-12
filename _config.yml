@@ -11,7 +11,7 @@ repository: "soledo/soledo.github.io"
 # Site Author
 author:
   name: "Donghyuk Shin"
-  avatar: "images/profile.jpg"
+  avatar: "/images/avatar.jpg"
   bio: "Ph.D. Student in Information Security"
   location: "Gwangju, South Korea"
   employer: "Chonnam National University"
@@ -29,7 +29,7 @@ author:
   instagram:
   lastfm:
   linkedin: "shindh2"
-  orcid:
+  orcid: "0000-0002-2384-3380"
   pinterest:
   soundcloud:
   stackoverflow:
@@ -89,7 +89,7 @@ collections:
 defaults:
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -108,6 +108,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Include _pages folder
+include:
+  - _pages
 
 # Exclude from processing
 exclude:
