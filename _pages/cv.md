@@ -31,10 +31,22 @@ Chonnam National University, South Korea
 
 ---
 
+## Research Projects
+
+**Research on Orchestration of Containerized Honeypots for Proactive Defense in Cyber-Physical Systems**
+- National Research Foundation of Korea (Ministry of Education)
+- Doctoral Student Research Grant
+- Sep 2024 - Aug 2025
+- Role: Principal Investigator
+
+---
+
 ## Awards & Honors
 
 | Year | Award | Organization |
 |------|-------|--------------|
+| 2025 | Excellent Paper Award [President of aT(Korea Agro-Fisheries & Food Trade Corp.) Award] | KIISC Fall Conference |
+| 2025 | Excellence Award (2nd ATHENA 2025) | KISIA |
 | 2024 | Excellent Paper Award (President of Korea Power Exchange) | KIISC Fall Conference |
 | 2023 | Emerging Excellence Researcher in Convergence Security | KCSA Fall Conference |
 | 2022 | Excellent Paper Award (President of KISA) | KIISC CISC-S'22 |
@@ -52,11 +64,11 @@ Chonnam National University, South Korea
 
 ## Research Interests
 
-- Cyber Threat Intelligence
-- Cyber Physical System
+- Industrial Control System Security
+- Cyber-Physical Systems
 - Threat Modeling
 - Digital Forensics
-- Cyber Deception
+- Vulnerability Analysis
 
 ---
 
