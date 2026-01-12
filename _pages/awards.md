@@ -28,6 +28,12 @@ author_profile: true
 ## Competition Awards
 
 <div class="award-item">
+  <div class="award-year">Sep 2025</div>
+  <div class="award-title">Excellence Award in 2nd Information Security Education & Training Cyber Attack Scenario Competition</div>
+  <div class="award-org">Korea Information Security Industry Association (KISIA)</div>
+</div>
+
+<div class="award-item">
   <div class="award-year">Nov 2020</div>
   <div class="award-title">Excellence Prize in 7th Software Development Security Competition</div>
   <div class="award-org">Ministry of the Interior and Safety</div>
