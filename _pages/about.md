@@ -5,17 +5,22 @@ layout: single
 author_profile: true
 ---
 
-I am a Ph.D. student in the **Interdisciplinary Program of Information Security** at Chonnam National University, South Korea. I am a member of the [System Security Research Center (SSRC)](http://ssrc.jnu.ac.kr).
+I am a Ph.D. candidate in the **Department of Information Security Convergence** at Chonnam National University, South Korea. I am a member of the [System Security Research Center (SSRC)](http://ssrc.jnu.ac.kr).
+
+## Biography
+
+At SSRC, I have participated in cybersecurity research projects for critical infrastructure, including nuclear power plants, electric vehicle charging infrastructure, and offshore wind energy systems, in collaboration with organizations such as KINAC and KEPCO. My research focuses on digital forensics and threat modeling for industrial control systems and cyber-physical systems.
 
 ## Research Interests
 
-- **Cyber Threat Intelligence** - Analyzing and understanding cyber threats
-- **Cyber Physical Systems** - Security in systems bridging digital and physical worlds
-- **Threat Modeling** - Identifying and prioritizing potential threats
-- **Digital Forensics** - Investigation techniques for cyber incidents
-- **Cyber Deception** - Deceptive techniques to detect attackers
+- Industrial Control System Security
+- Cyber-Physical Systems
+- Threat Modeling
+- Digital Forensics
+- Vulnerability Analysis
 
-## Contact
+## Education
 
-- **Email:** [shindh2@jnu.ac.kr](mailto:shindh2@jnu.ac.kr)
-- **Office:** #415, College of AI Convergence, Chonnam National University
+- **Ph.D. Candidate** in Information Security Convergence, Chonnam National University *(2022 - Present)*
+- **M.S.** in Information Security, Chonnam National University *(2020 - 2022)*
+- **B.S.** in Computer Information Communication Engineering, Chonnam National University *(2014 - 2020)*

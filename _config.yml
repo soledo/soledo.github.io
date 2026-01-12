@@ -44,11 +44,11 @@ author:
 
 # Research Interests
 research_interests:
-  - Cyber Threat Intelligence
-  - Cyber Physical System
+  - Industrial Control System Security
+  - Cyber-Physical Systems
   - Threat Modeling
   - Digital Forensics
-  - Cyber Deception
+  - Vulnerability Analysis
 
 # Build Settings
 markdown: kramdown
