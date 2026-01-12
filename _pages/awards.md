@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="award-item">
   <div class="award-year">Sep 2025</div>
-  <div class="award-title">Excellent Paper Award (6th Honam Cybersecurity Conference)</div>
+  <div class="award-title">Excellent Paper Award [President of Korea Agro-Fisheries & Food Trade Corporation Award]</div>
   <div class="award-org">Korea Institute of Information Security And Cryptology (Fall Conference)</div>
 </div>
 
