@@ -1,5 +1,13 @@
 ---
 ---
 
+// Base styles for resume layout
+@import "normalize";
+@import "variables";
+@import "mixins";
+@import "base";
+@import "layout";
+@import "resume";
+
 // Academic Pages Style
 @import "academic";
