@@ -19,9 +19,9 @@ author_profile: true
 
 ## Competitions
 
-### KISIA Cyber Attack Scenario Competition (2025)
+### ATHENA 2025
 - **Excellence Award**, Korea Information Security Industry Association (KISIA)
-- 2nd Information Security Education & Training Cyber Attack Scenario Competition
+- 2nd ATHENA 2025 (Cyber Attack & Defense Hardening Scenario Competition for Cybersecurity Education & Training)
 - Project: Multi-stage Cyber Attack Simulation for Wind Power Plants and Hierarchical Cyber Defense System
 
 ### Software Development Security Competition (2020)

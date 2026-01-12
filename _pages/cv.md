@@ -45,7 +45,7 @@ Chonnam National University, South Korea
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | Excellence Award (2nd Cyber Attack Scenario Competition) | KISIA |
+| 2025 | Excellence Award (2nd ATHENA 2025) | KISIA |
 | 2024 | Excellent Paper Award (President of Korea Power Exchange) | KIISC Fall Conference |
 | 2023 | Emerging Excellence Researcher in Convergence Security | KCSA Fall Conference |
 | 2022 | Excellent Paper Award (President of KISA) | KIISC CISC-S'22 |

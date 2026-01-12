@@ -29,7 +29,7 @@ author_profile: true
 
 <div class="award-item">
   <div class="award-year">Sep 2025</div>
-  <div class="award-title">Excellence Award in 2nd Information Security Education & Training Cyber Attack Scenario Competition</div>
+  <div class="award-title">Excellence Award in 2nd ATHENA 2025</div>
   <div class="award-org">Korea Information Security Industry Association (KISIA)</div>
 </div>
 
