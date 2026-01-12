@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="header-container">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      {% for link in site.data.navigation.main %}
+      <a class="nav-link {% if page.url == link.url %}active{% endif %}" href="{{ link.url | relative_url }}">
+        {{ link.title }}
+      </a>
+      {% endfor %}
+    </nav>
+
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      <span class="hamburger"></span>
+    </button>
+  </div>
+</header>
