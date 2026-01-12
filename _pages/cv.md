@@ -31,9 +31,9 @@ Chonnam National University, South Korea
 
 1. **Donghyuk Shin**, Jae-Jun Ha, Ieck-Chae Euom. "Data-Driven Digital Evidence Analysis for the Forensic Investigation of the Electric Vehicle Charging Infrastructure." *Computer Modeling in Engineering & Sciences*, 143(3), 3795-3838, June 2025. [DOI](https://doi.org/10.32604/cmes.2025.066727)
 
-2. **Donghyuk Shin**, SeungJu Han, YuBin Kim, Ieck-Chae Euom. "Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations." *MDPI Applied Sciences*, January 2024.
+2. **Donghyuk Shin**, Seung-Ju Han, Yu-Bin Kim, Ieck-Chae Euom. "Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations." *Applied Sciences*, 14(3), 1128, January 2024. [DOI](https://doi.org/10.3390/app14031128)
 
-3. **Donghyuk Shin**, Gayeong Kim, Ieck-Chae Euom. "Vulnerabilities of the Open Platform Communication Unified Architecture Protocol in Industrial Internet of Things Operation." *MDPI Sensors*, August 2022.
+3. **Donghyuk Shin**, Ga-Yeong Kim, Ieck-Chae Euom. "Vulnerabilities of the Open Platform Communication Unified Architecture Protocol in Industrial Internet of Things Operation." *Sensors*, 22(17), 6575, August 2022. [DOI](https://doi.org/10.3390/s22176575)
 
 </div>
 
