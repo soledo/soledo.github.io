@@ -5,15 +5,15 @@ title: "Home"
 
 ## Welcome
 
-I am a Ph.D. student in the **Interdisciplinary Program of Information Security** at Chonnam National University, South Korea. My research focuses on **Cyber Threat Intelligence**, **Cyber Physical System Security**, and **Digital Forensics**.
+I am a Ph.D. candidate in the **Department of Information Security Convergence** at Chonnam National University, South Korea. My research focuses on **Industrial Control System Security**, **Cyber-Physical Systems**, and **Digital Forensics**.
 
 ---
 
 ## Recent News
 
+- **Jun 2025** - Paper published in Computer Modeling in Engineering & Sciences
 - **Oct 2024** - Received Excellent Paper Award at KIISC Fall Conference
-- **Nov 2023** - Recognized as Emerging Excellence Researcher in Convergence Security
-- **Jan 2024** - Paper published in MDPI Applied Sciences
+- **Jan 2024** - Paper published in Applied Sciences
 
 ---
 
