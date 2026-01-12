@@ -11,7 +11,7 @@ repository: "soledo/soledo.github.io"
 # Site Author
 author:
   name: "Donghyuk Shin"
-  avatar: "images/profile.jpg"
+  avatar: "/images/avatar.jpg"
   bio: "Ph.D. Student in Information Security"
   location: "Gwangju, South Korea"
   employer: "Chonnam National University"
