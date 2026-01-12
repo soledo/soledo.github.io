@@ -50,6 +50,28 @@ research_interests:
   - Digital Forensics
   - Cyber Deception
 
+# Resume Settings (for /cv-print/ page)
+resume_avatar: "true"
+resume_name: "Donghyuk Shin"
+resume_title: "Ph.D. Candidate, System Security Research Center"
+resume_contact_email: "shindh2@jnu.ac.kr"
+resume_contact_telephone: "(+82) 010-8967-1014"
+resume_contact_address: "#415, College of AI Convergence, Chonnam National University, Gwangju, Korea"
+resume_header_contact_info: "#415, College of AI Convergence, Chonnam National University, Gwangju, Korea<br>E-mail: shindh2@jnu.ac.kr"
+display_header_contact_info: "true"
+resume_header_intro: "<p>Cyber Threat Intelligence, Cyber Physical System, Threat Modeling, Digital Forensics, Cyber Deception</p>"
+resume_looking_for_work: "yes"
+resume_section_experience: true
+resume_section_education: true
+resume_section_license: true
+resume_section_recognition: true
+resume_social_links:
+  resume_github_url: "https://github.com/soledo"
+  resume_linkedin_url: "https://www.linkedin.com/in/shindh2"
+  resume_website_url: "http://ssrc.jnu.ac.kr"
+resume_print_social_links: true
+resume_theme: default
+
 # Build Settings
 markdown: kramdown
 highlighter: rouge
