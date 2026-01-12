@@ -64,11 +64,11 @@ Chonnam National University, South Korea
 
 ## Research Interests
 
-- Industrial Control System Security
-- Cyber-Physical Systems
+- Cyber Threat Intelligence
+- Cyber Physical System
 - Threat Modeling
 - Digital Forensics
-- Vulnerability Analysis
+- Cyber Deception
 
 ---
 
