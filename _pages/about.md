@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the **Department of Information Security Convergence**
 
 ## Biography
 
-At SSRC, I have participated in cybersecurity research projects for critical infrastructure, including nuclear power plants, electric vehicle charging infrastructure, and offshore wind energy systems, in collaboration with organizations such as KINAC and KEPCO. My research focuses on digital forensics and threat modeling for industrial control systems and cyber-physical systems.
+My research interests lie in cybersecurity for critical infrastructure, with a focus on industrial control systems and cyber-physical systems. I have been involved in industry-academia collaboration projects concerning security assessment and protection of energy infrastructure, including nuclear facilities, electric vehicle charging infrastructure, and offshore wind power systems. My work encompasses industrial control protocol analysis and digital forensics methodologies.
 
 ## Research Interests
 

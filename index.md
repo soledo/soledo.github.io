@@ -23,9 +23,9 @@ I am a Ph.D. student in the **Interdisciplinary Program of Information Security*
 Donghyuk Shin, Jae-Jun Ha, Ieck-Chae Euom
 *Computer Modeling in Engineering & Sciences*, 2025
 
-**Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations**
-Donghyuk Shin, SeungJu Han, YuBin Kim, Ieck-Chae Euom
-*MDPI Applied Sciences*, 2024
+**[Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations](https://doi.org/10.3390/app14031128)**
+Donghyuk Shin, Seung-Ju Han, Yu-Bin Kim, Ieck-Chae Euom
+*Applied Sciences*, 2024
 
 [View all publications](/publications/)
 
