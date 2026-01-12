@@ -19,13 +19,13 @@ I am a Ph.D. student in the **Interdisciplinary Program of Information Security*
 
 ## Recent Publications
 
-**Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations**
-Donghyuk Shin, SeungJu Han, YuBin Kim, Ieckchae Euom
-*MDPI Applied Sciences*, 2024
+**[Data-Driven Digital Evidence Analysis for the Forensic Investigation of the Electric Vehicle Charging Infrastructure](https://doi.org/10.32604/cmes.2025.066727)**
+Donghyuk Shin, Jae-Jun Ha, Ieck-Chae Euom
+*Computer Modeling in Engineering & Sciences*, 2025
 
-**Vulnerabilities of the Open Platform Communication Unified Architecture Protocol in Industrial Internet of Things Operation**
-Donghyuk Shin, Gayeong Kim, Ieckchae Euom
-*MDPI Sensors*, 2022
+**Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations**
+Donghyuk Shin, SeungJu Han, YuBin Kim, Ieck-Chae Euom
+*MDPI Applied Sciences*, 2024
 
 [View all publications](/publications/)
 
