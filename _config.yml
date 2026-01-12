@@ -1,65 +1,121 @@
-# Site settings
-title: "Donghyuk Shin Resume"
-#description: "A resume template for Jekyll and GitHub Pages sites."
+# Site Settings
+locale: "en-US"
+title: "Donghyuk Shin"
+title_separator: "|"
+name: "Donghyuk Shin"
+description: "Ph.D. Student in Information Security at Chonnam National University"
+url: "https://soledo.github.io"
+baseurl: ""
+repository: "soledo/soledo.github.io"
 
-# Build settings
+# Site Author
+author:
+  name: "Donghyuk Shin"
+  avatar: "images/profile.jpg"
+  bio: "Ph.D. Student in Information Security"
+  location: "Gwangju, South Korea"
+  employer: "Chonnam National University"
+  email: "shindh2@jnu.ac.kr"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "soledo"
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
+  linkedin: "shindh2"
+  orcid:
+  pinterest:
+  soundcloud:
+  stackoverflow:
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  googlescholar:
+
+# Research Interests
+research_interests:
+  - Cyber Threat Intelligence
+  - Cyber Physical System
+  - Vehicle to X (V2X)
+  - Digital Forensics
+  - Cyber Deception
+
+# Build Settings
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Donghyuk Shin"
-resume_title:                   "Ph.D. Course, System Security Research Center"
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Seoul
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "shindh2@jnu.ac.kr"
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
 
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(+82) 010-8967-1014"
-resume_contact_address:         "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea "
+# Pagination
+paginate: 5
+paginate_path: /page:num/
 
-resume_header_contact_info:     "#415, College of AI Convergence, Chonnam National University, Buk-gu, Gwangju, Korea  <br>Phone : (+82) 010-8967-1014 | E-mail : shindh2@jnu.ac.kr"
-display_header_contact_info:    "true"
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
-resume_header_intro: "<p>Cyber Threat Intelligence, Cyber Physical System, Vehicle to X, Digital Forensics, Cyber Deception</p>"
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-#resume_section_projects:        true
-#resume_section_skills:          true
-resume_section_license:    true
-resume_section_recognition:     true
-#resume_section_links:           true
-#resume_section_associations:    true
-#resume_section_interests:       true
-
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/soledo"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/shindh2"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://ssrc.jnu.ac.kr"
-  #resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+  - Dockerfile
+  - .travis.yml

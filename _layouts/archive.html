@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="page-content">
+  <div class="page-wrapper">
+    {% if page.author_profile %}
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+    {% endif %}
+
+    <article class="page-article {% if page.author_profile %}with-sidebar{% endif %}">
+      {% if page.title %}
+      <header class="page-header">
+        <h1 class="page-title">{{ page.title }}</h1>
+      </header>
+      {% endif %}
+
+      <div class="page-body">
+        {{ content }}
+
+        {% if page.collection %}
+        <div class="archive-list">
+          {% assign collection = site[page.collection] | sort: 'date' | reverse %}
+          {% for item in collection %}
+          <div class="archive-item">
+            <h3 class="archive-item-title">
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            </h3>
+            {% if item.venue %}
+            <p class="archive-item-venue">{{ item.venue }}</p>
+            {% endif %}
+            {% if item.date %}
+            <p class="archive-item-date">{{ item.date | date: "%Y" }}</p>
+            {% endif %}
+            {% if item.excerpt %}
+            <p class="archive-item-excerpt">{{ item.excerpt | strip_html | truncate: 200 }}</p>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </article>
+  </div>
+</div>
