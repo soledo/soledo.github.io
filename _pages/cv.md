@@ -29,9 +29,11 @@ Chonnam National University, South Korea
 
 <div class="cv-section">
 
-1. **Donghyuk Shin**, SeungJu Han, YuBin Kim, Ieckchae Euom. "Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations." *MDPI Applied Sciences*, January 2024.
+1. **Donghyuk Shin**, Jae-Jun Ha, Ieck-Chae Euom. "Data-Driven Digital Evidence Analysis for the Forensic Investigation of the Electric Vehicle Charging Infrastructure." *Computer Modeling in Engineering & Sciences*, 143(3), 3795-3838, June 2025. [DOI](https://doi.org/10.32604/cmes.2025.066727)
 
-2. **Donghyuk Shin**, Gayeong Kim, Ieckchae Euom. "Vulnerabilities of the Open Platform Communication Unified Architecture Protocol in Industrial Internet of Things Operation." *MDPI Sensors*, August 2022.
+2. **Donghyuk Shin**, SeungJu Han, YuBin Kim, Ieck-Chae Euom. "Research on Digital Forensics Analyzing Heterogeneous Internet of Things Incident Investigations." *MDPI Applied Sciences*, January 2024.
+
+3. **Donghyuk Shin**, Gayeong Kim, Ieck-Chae Euom. "Vulnerabilities of the Open Platform Communication Unified Architecture Protocol in Industrial Internet of Things Operation." *MDPI Sensors*, August 2022.
 
 </div>
 
