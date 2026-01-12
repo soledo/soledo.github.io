@@ -5,30 +5,27 @@ layout: single
 author_profile: true
 ---
 
-## Current Research Projects
+## Research Projects
 
-### Cyber Physical System Security
-Research on security vulnerabilities and defense mechanisms in cyber-physical systems, with a focus on industrial control systems and smart grid infrastructure.
+### Research on Orchestration of Containerized Honeypots for Proactive Defense in Cyber-Physical Systems
+**사이버 물리시스템의 선제적 방어 체계 적용을 위한 컨테이너 기반 허니팟 설계 및 배포 최적화 연구**
 
-### V2X Communication Security
-Investigating security challenges and solutions in Vehicle-to-Everything (V2X) communication systems for connected and autonomous vehicles.
-
-### IoT Digital Forensics
-Developing methodologies for incident investigation and digital forensics in heterogeneous Internet of Things environments.
+- **Period:** Sep 2024 - Aug 2025
+- **Funding:** National Research Foundation of Korea (Ministry of Education)
+- **Program:** Doctoral Student Research Grant
+- **Role:** Principal Investigator
 
 ---
 
-## Past Projects
+## Competitions
 
 ### Software Development Security Competition (2020)
-- Excellence Prize, Ministry of the Interior and Safety
-- Developed secure software solutions addressing real-world security challenges
+- **Excellence Prize**, Ministry of the Interior and Safety
+- 7th Annual Competition
 
 ### Energy ICT Hacking Competition (2020)
-- 2nd Place in General Department
-- Korea Institute of Information Security and Cryptology
-- Focused on energy sector cybersecurity challenges
+- **2nd Place**, General Department
+- Korea Electric Power Corporation (KEPCO)
 
----
-
-*More project details will be added soon.*
+### KEPCO KDN New Deal Innovation Hackathon (2020)
+- **Encouragement Prize**
