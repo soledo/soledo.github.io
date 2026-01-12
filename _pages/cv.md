@@ -79,4 +79,6 @@ Chonnam National University, South Korea
 
 ---
 
-[Download CV (PDF)](/files/cv.pdf){: .btn .btn-primary} *(Coming soon)*
+<a href="/cv-print/" class="btn" style="display:inline-block; padding:10px 20px; background:#2962ff; color:#fff; border-radius:6px; margin-right:10px;">View Printable CV</a>
+
+*Tip: Open "Printable CV" and use browser's Print (Ctrl+P) → Save as PDF*
