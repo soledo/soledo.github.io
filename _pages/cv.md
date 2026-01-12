@@ -31,6 +31,16 @@ Chonnam National University, South Korea
 
 ---
 
+## Research Projects
+
+**Research on Orchestration of Containerized Honeypots for Proactive Defense in Cyber-Physical Systems**
+- National Research Foundation of Korea (Ministry of Education)
+- Doctoral Student Research Grant
+- Sep 2024 - Aug 2025
+- Role: Principal Investigator
+
+---
+
 ## Awards & Honors
 
 | Year | Award | Organization |
@@ -52,11 +62,11 @@ Chonnam National University, South Korea
 
 ## Research Interests
 
-- Cyber Threat Intelligence
-- Cyber Physical System
+- Industrial Control System Security
+- Cyber-Physical Systems
 - Threat Modeling
 - Digital Forensics
-- Cyber Deception
+- Vulnerability Analysis
 
 ---
 
