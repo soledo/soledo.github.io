@@ -66,7 +66,7 @@ Chonnam National University, South Korea
 
 - Cyber Threat Intelligence
 - Cyber Physical System Security
-- Vehicle-to-Everything (V2X) Security
+- Threat Modeling
 - Digital Forensics
 - Cyber Deception
 
