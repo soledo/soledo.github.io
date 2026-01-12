@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the **Department of Information Security Convergence**
 
 ## Biography
 
-My research interests lie in cybersecurity for critical infrastructure, with a focus on industrial control systems and cyber-physical systems. I have been involved in industry-academia collaboration projects concerning security assessment and protection of energy infrastructure, including nuclear facilities, electric vehicle charging infrastructure, and offshore wind power systems. My work encompasses industrial control protocol analysis and digital forensics methodologies.
+My research focuses on cybersecurity for critical infrastructure, including industrial control systems and cyber-physical systems. I have participated in industry-academia collaboration projects on security assessment for energy infrastructure such as nuclear facilities, electric vehicle charging infrastructure, and offshore wind power systems. My work also covers industrial control protocol analysis and digital forensics.
 
 ## Research Interests
 
